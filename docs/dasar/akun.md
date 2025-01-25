@@ -10,11 +10,11 @@ Anda dapat membuka halaman proyek Wikimedia mana pun. Misalnya, di sini saya men
 
 Silakan klik pada bagian ***Create account***.
 
-![Halaman depan Incubator WikiKamus base Sasak](..img/WI_WK-sas_hu_notlogin.png "Halaman depan Incubator WikiKamus base Sasak")
+![Halaman depan Incubator WikiKamus base Sasak](img/WI_WK-sas_hu_notlogin.png "Halaman depan Incubator WikiKamus base Sasak")
 
 Silakan isi kotak teks sesuai dengan bagian. Untuk ***username***, Anda tidak perlu menggunakan nama asli Anda, silakan gunakan nama pengguna yang Anda sukai. Anda disarankan untuk mengisi kolom *email address*. Selain itu, Anda juga perlu mengisi bagian CAPTCHA.
 
-![Formulir pendaftaran akun Wikimedia](..img/WI_createaccount.png "Formulir pendaftaran akun Wikimedia")
+![Formulir pendaftaran akun Wikimedia](img/WI_createaccount.png "Formulir pendaftaran akun Wikimedia")
 
 Jika sudah, silakan klik ***Create your account***. Selanjutnya, Anda mungkin perlu memverifikasi alamat surel Anda.
 
@@ -26,4 +26,4 @@ Untuk masuk ke halaman Wikimedia Anda, Anda dapat menekan tombol ***Log in*** di
 
 Jika bagian kanan atas halaman proyek Wikimedia Anda sudah seperti gambar di bawah (dengan nama pengguna Anda berwarna biru atau merah), telah berhasil masuk ke proyek Wikimedia tersebut.
 
-![Bagian kanan atas proyek Wikimedia](..img/WI_ataskanan.png "Bagian atas kanan di halaman proyek Wikimedia")
+![Bagian kanan atas proyek Wikimedia](img/WI_ataskanan.png "Bagian atas kanan di halaman proyek Wikimedia")

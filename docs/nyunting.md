@@ -8,11 +8,11 @@ Jika Anda sudah memiliki akun Wikimedia, Anda mungkin perlu masuk terlebih dahul
 
 Jika Anda masuk ke halaman [WikiKamus base Sasak](https://incubator.wikimedia.org/wiki/Wt/sas) pada Wikimedia Incubator, Anda akan menemukan halaman seperti pada tangkapan layar di bawah.
 
-![Halaman depan WikiKamus base Sasak](../img/WI_WK-sas_1.png "Halaman depan WikiKamus base Sasak")
+![Halaman depan WikiKamus base Sasak](img/WI_WK-sas_1.png "Halaman depan WikiKamus base Sasak")
 
 Anda dapat masuk pada halaman utama proyek ini dengan menekan [**go to the Main Page**](https://incubator.wikimedia.org/wiki/Wt/sas/Main_Page). Maka, Anda akan menemukan tampilan seperti tangkapan layar di bawah.
 
-![Halaman utama WikiKamus base Sasak](..img/WI_WK-sas_hu.png "Halaman utaa WikiKamus base Sasak")
+![Halaman utama WikiKamus base Sasak](img/WI_WK-sas_hu.png "Halaman utaa WikiKamus base Sasak")
 
 Kita akan banyak bermain pada halaman ini. 
 
@@ -20,15 +20,15 @@ Kita akan banyak bermain pada halaman ini.
 
 Untuk mencari kata atau membuat halaman baru, Anda dapat memasukkan kata pencarian pada kotak bertuliskan **Wt/sas/** lalu klik **Piak lema**.
 
-![Buat kata](..img/WI_WK-sas_buatkata.png "Buat kata")
+![Buat kata](img/WI_WK-sas_buatkata.png "Buat kata")
 
 Jika kata yang Anda masukkan sudah ada (misalnya *air*), Anda akan menuju halaman penyuntingan seperti gambar di bawah. 
 
-![Kata sudah ada](..img/WT_WK-sas_kataada.png "Kata air sudah ada di WikiKamus base Sasak")
+![Kata sudah ada](img/WT_WK-sas_kataada.png "Kata air sudah ada di WikiKamus base Sasak")
 
 Namun, jika kata yang Anda masukkan belum ada (misalnya dalam contoh ini *baloq*), Anda akan menuju halaman seperti gambar di bawah.
 
-![Kata belum ada](..img/WT_WK-sas_katatidak.png "Kata baloq belum ada di WikiKamus base Sasak")
+![Kata belum ada](img/WT_WK-sas_katatidak.png "Kata baloq belum ada di WikiKamus base Sasak")
 
 Dalam pencarian, pastikan Anda juga mencoba menggunakan aksen untuk huruf e (misalnya untuk e taling terbuka: è atau e taling tertutup: é). Lihat bagian [Huruf E](nyunting.md#huruf_e) di bawah.
 
@@ -100,7 +100,7 @@ Dari penjelasan di atas, maka saya masukkan teks berikut pada kotak teks di bagi
 
 Jika sudah, Anda dapat menggulir sedikit ke bawah hingga menemukan bagian seperti gambar di bawah. Anda dapat memasukkan rangkuman apa yang telah Anda lakukan pada bagian yang dikotakkan merah (Summary) dan dapat mempublikasikan suntingan Anda pada tombol ***Publish page*** yang dikotakkan biru.
 
-![Mempublikasikan suntingan](..img/WI_WK-sas_publish.png "Mempublikasikan hasil suntingan")
+![Mempublikasikan suntingan](img/WI_WK-sas_publish.png "Mempublikasikan hasil suntingan")
 
 Selamat! Anda sudah membuat suntingan Anda di WikiKamus base Sasak! Terima kasih!
 
@@ -138,11 +138,11 @@ Berikut beberapa kode bahasa yang akan sering digunakan di WikiKamus base Sasak:
 
 Jika Anda menggunakan kode bahasa, lalu terdapat tampilan seperti di bawah (dalam contoh, menggunakan kode bahasa Prancis, `fr`), Anda dapat membuat halaman untuk kode bahasa tersebut.
 
-![Kode bahasa belum ada](..img/WI_WK-sas_belumadabahasa.png "Kode bahasa Prancis belum ada")
+![Kode bahasa belum ada](img/WI_WK-sas_belumadabahasa.png "Kode bahasa Prancis belum ada")
 
 Caranya adalah dengan klik tautan merah tersebut, lalu masukkan nama bahasanya. Misalnya, untuk `fr` adalah bahasa Prancis. Maka saya masukkan "base Prancis". Setelah itu, silakan publikasikan.
 
-![Membuat kode bahasa Prancis](..img/WI_WK-sas_buatBahasa.png "Membuat kode bahasa Prancis")
+![Membuat kode bahasa Prancis](img/WI_WK-sas_buatBahasa.png "Membuat kode bahasa Prancis")
 
 ## Kelas kata
 
