@@ -4,7 +4,7 @@ Dokumentasi ini dibuat untuk membantu kontribusi pada WikiKamus base Sasak. Mesk
 
 ## Apa itu WikiKamus (Wiktionary)?
 
-[Wiktionary](https://wiktionary.org) atau WikiKamus dalam bahasa Indonesia adalah sebuah proyek bersama dari Wikimedia Foundations, sebuah yayasan nonprofit yang mengelola berbagai proyek bebas, seperti [Wikpedia](https://wikipedia.org), [Wikibooks](https://wikibooks.org), [Wikisource](https://wikisource.org), [WikiVoyage](https://wikivoyage.org), [Wikinews](https://wikinews.org) dan lain sebagainya. Secara sederhana, Wikikamus sangat mirip dengan Wikipedia. Namun, Wikikamus memiliki konten kamus, alih-alih ensiklopedia.
+[Wiktionary](https://wiktionary.org) atau WikiKamus dalam bahasa Indonesia adalah sebuah proyek bersama dari Wikimedia Foundations, sebuah yayasan nonprofit yang mengelola berbagai proyek bebas, seperti [Wikipedia](https://wikipedia.org), [Wikibooks](https://wikibooks.org), [Wikisource](https://wikisource.org), [WikiVoyage](https://wikivoyage.org), [Wikinews](https://wikinews.org) dan lain sebagainya. Secara sederhana, Wikikamus sangat mirip dengan Wikipedia. Namun, Wikikamus memiliki konten kamus, alih-alih ensiklopedia.
 
 Di dalam Wikikamus, pengguna dapat menemukan arti kata dalam berbagai bahasa yang dijelaskan dalam suatu bahasa spesifik. Misalnya, dalam [Wikikamus bahasa Indonesia](https://id.wiktionary.org), berbagai kata dalam berbagai bahasa akan dijelaskan atau diterjemahkan menjadi bahasa Indonesia.
 
