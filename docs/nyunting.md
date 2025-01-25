@@ -1,6 +1,6 @@
 # Menyunting di WikiKamus base Sasak
 
-Berkontribusi di Wikikamus base Sasak dapat dilakukan dengan mudah. Sebelumnya, Anda **disarankan** untuk memiliki akun Wikimedia sebelum menyunting agar setiap kontribusi Anda dapat dicatat. Untuk informasi pembuatan akun Wikimedia, silakan rujuk pada [halaman berikut](../dasar/buat-akun.md).
+Berkontribusi di Wikikamus base Sasak dapat dilakukan dengan mudah. Sebelumnya, Anda **disarankan** untuk memiliki akun Wikimedia sebelum menyunting agar setiap kontribusi Anda dapat dicatat. Untuk informasi pembuatan akun Wikimedia, silakan rujuk pada [halaman berikut](dasar/buat-akun.md).
 
 Jika Anda sudah memiliki akun Wikimedia, Anda mungkin perlu masuk terlebih dahulu sebelum mulai berkontribusi pada WikiKamus base Sasak.
 
@@ -36,7 +36,7 @@ Dalam pencarian, pastikan Anda juga mencoba menggunakan aksen untuk huruf e (mis
 
 Seperti yang sebelumnya disebutkan, Anda dapat memasukkan entri dengan memasukkan kata yang belum ada di WikiKamus base Sasak. Untuk melihat daftar kata yang sudah ada di WikiKamus base Sasak, silakan lihat [halaman berikut](https://incubator.wikimedia.org/wiki/Special:PrefixIndex/Wt/sas).
 
-Untuk format dalam WikiKamus sendiri, kita akan menggunakan format yang direkomendasikan pada proyek ini, yaitu sebagai berikut. Untuk mempelajari lebih lanjut sintaks Wiki, silakan cek [halaman berikut](../dasar/sintaks.md).
+Untuk format dalam WikiKamus sendiri, kita akan menggunakan format yang direkomendasikan pada proyek ini, yaitu sebagai berikut. Untuk mempelajari lebih lanjut sintaks Wiki, silakan cek [halaman berikut](dasar/sintaks.md).
 
 ```MediaWiki
 == {{KodeBahasa}} ==
@@ -96,7 +96,7 @@ Dari penjelasan di atas, maka saya masukkan teks berikut pada kotak teks di bagi
 
 ![Membuat kata baloq](/img/WI_WK-sas_baloq.png "Membuat kata baloq di WikiKamus base Sasak")
 
-> Perhatikan bahwa saya menambahkan dua kurung kotak di antara kata "réptil", "pélo", dan "mangan". Hal ini agar ketiga kata tersebut dapat diklik dan pengguna dapat mengetahui arti dari masing-masing kata tersebut. Anda dapat menambahkan dua kurung kotak tersebut pada kata yang menurut Anda dapat membantu pembaca lebih memahami arti kata yang sedang mereka baca. Untuk mempelajari lebih lanjut tentang sintaks Wiki, silakan lihat [halaman berikut](../dasar/sintaks.md).
+> Perhatikan bahwa saya menambahkan dua kurung kotak di antara kata "réptil", "pélo", dan "mangan". Hal ini agar ketiga kata tersebut dapat diklik dan pengguna dapat mengetahui arti dari masing-masing kata tersebut. Anda dapat menambahkan dua kurung kotak tersebut pada kata yang menurut Anda dapat membantu pembaca lebih memahami arti kata yang sedang mereka baca. Untuk mempelajari lebih lanjut tentang sintaks Wiki, silakan lihat [halaman berikut](dasar/sintaks.md).
 
 Jika sudah, Anda dapat menggulir sedikit ke bawah hingga menemukan bagian seperti gambar di bawah. Anda dapat memasukkan rangkuman apa yang telah Anda lakukan pada bagian yang dikotakkan merah (Summary) dan dapat mempublikasikan suntingan Anda pada tombol ***Publish page*** yang dikotakkan biru.
 

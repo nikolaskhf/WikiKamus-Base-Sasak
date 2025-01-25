@@ -25,8 +25,8 @@ Namun, untuk saat ini, saya rasa akan lebih baik jika kita fokus pada Wikikamus 
 Jika Anda sudah mulai memahami apa itu Wikikamus base Sasak dan tertarik untuk mulai berkontribusi, silakan menuju halaman-halaman berikut:
 
 1. [Dasar penyuntingan dan akun Wikikamus](dasar/index.md)
-    1. [Membuat akun Wikikamus](../dasar/akun.md)
-    2. [Memahami dasar sintaks Wiki](../dasar/sintaks.md)
+    1. [Membuat akun Wikikamus](dasar/akun.md)
+    2. [Memahami dasar sintaks Wiki](dasar/sintaks.md)
 2. [Menyunting di Wikikamus base Sasak](nyunting.md)
 3. [Sumber daya yang mungkin membantu](sumber_daya.md)
 
