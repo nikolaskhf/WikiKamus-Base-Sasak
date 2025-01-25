@@ -1,6 +1,6 @@
 # Menyunting di WikiKamus base Sasak
 
-Berkontribusi di Wikikamus base Sasak dapat dilakukan dengan mudah. Sebelumnya, Anda **disarankan** untuk memiliki akun Wikimedia sebelum menyunting agar setiap kontribusi Anda dapat dicatat. Untuk informasi pembuatan akun Wikimedia, silakan rujuk pada [halaman berikut](dasar/buat-akun.md).
+Berkontribusi di Wikikamus base Sasak dapat dilakukan dengan mudah. Sebelumnya, Anda **disarankan** untuk memiliki akun Wikimedia sebelum menyunting agar setiap kontribusi Anda dapat dicatat. Untuk informasi pembuatan akun Wikimedia, silakan rujuk pada [halaman berikut](dasar/akun.md).
 
 Jika Anda sudah memiliki akun Wikimedia, Anda mungkin perlu masuk terlebih dahulu sebelum mulai berkontribusi pada WikiKamus base Sasak.
 
@@ -94,7 +94,7 @@ Dari penjelasan di atas, maka saya masukkan teks berikut pada kotak teks di bagi
 [[Category:B]]
 ```
 
-![Membuat kata baloq](/img/WI_WK-sas_baloq.png "Membuat kata baloq di WikiKamus base Sasak")
+![Membuat kata baloq](img/WI_WK-sas_baloq.png "Membuat kata baloq di WikiKamus base Sasak")
 
 > Perhatikan bahwa saya menambahkan dua kurung kotak di antara kata "réptil", "pélo", dan "mangan". Hal ini agar ketiga kata tersebut dapat diklik dan pengguna dapat mengetahui arti dari masing-masing kata tersebut. Anda dapat menambahkan dua kurung kotak tersebut pada kata yang menurut Anda dapat membantu pembaca lebih memahami arti kata yang sedang mereka baca. Untuk mempelajari lebih lanjut tentang sintaks Wiki, silakan lihat [halaman berikut](dasar/sintaks.md).
 
