@@ -20,15 +20,15 @@ Kita akan banyak bermain pada halaman ini.
 
 Untuk mencari kata atau membuat halaman baru, Anda dapat memasukkan kata pencarian pada kotak bertuliskan **Wt/sas/** lalu klik **Piak lema**.
 
-![Buat kata](img/WI_WK-sas_buatkata.png "Buat kata")
+![Buat kata](../img/WI_WK-sas_buatkata.png "Buat kata")
 
 Jika kata yang Anda masukkan sudah ada (misalnya *air*), Anda akan menuju halaman penyuntingan seperti gambar di bawah. 
 
-![Kata sudah ada](img/WT_WK-sas_kataada.png "Kata air sudah ada di WikiKamus base Sasak")
+![Kata sudah ada](../img/WT_WK-sas_kataada.png "Kata air sudah ada di WikiKamus base Sasak")
 
 Namun, jika kata yang Anda masukkan belum ada (misalnya dalam contoh ini *baloq*), Anda akan menuju halaman seperti gambar di bawah.
 
-![Kata belum ada](img/WT_WK-sas_katatidak.png "Kata baloq belum ada di WikiKamus base Sasak")
+![Kata belum ada](../img/WT_WK-sas_katatidak.png "Kata baloq belum ada di WikiKamus base Sasak")
 
 Dalam pencarian, pastikan Anda juga mencoba menggunakan aksen untuk huruf e (misalnya untuk e taling terbuka: è atau e taling tertutup: é). Lihat bagian [Huruf E](nyunting.md#huruf_e) di bawah.
 
